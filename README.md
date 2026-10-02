@@ -86,13 +86,14 @@ Expo Web використовується переважно для швидко
 ## Скріншоти
 
 ### Головна сторінка
-![home.png](C:\LearnZTU\mobile\lab1\my-app\screenshots\home.png)
+![Головна сторінка](./screenshots/home.png)
+
 ### Фотогалерея
 
-![gallery.png](C:\LearnZTU\mobile\lab1\my-app\screenshots\gallery.png)
+![Фотогалерея](./screenshots/gallery.png)
 ### Профіль
 
-![profile.png](C:\LearnZTU\mobile\lab1\my-app\screenshots\profile.png)
+![Профіль](./screenshots/profile.png)
 
 ## Висновок
 
